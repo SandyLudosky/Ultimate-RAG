@@ -1,7 +1,6 @@
 # Project : Q&A RAG (Chroma vector store)
 
 ---
-[Run on Google Colab](https://colab.research.google.com/drive/1D9iy4bS-8qxz48Kw-8cNPvNAJa1zB7Ee#scrollTo=oXuv0zLrBkA4)
 
 - **OpenAI** : [OpenAI](https://python.langchain.com/docs/integrations/platforms/openai) is a Python library that provides a simple interface to the OpenAI API. It also provides a command-line interface (CLI) for interacting with the API.
 
