@@ -1,0 +1,97 @@
+Programming Courses and Books
+
+Python
+Courses:
+
+Python for Everybody Specialization
+
+Platform: Coursera
+Description: Learn to program and analyze data with Python. Develop programs to gather, clean, analyze, and visualize data.
+Complete Python Bootcamp: Go from Zero to Hero in Python 3
+
+Platform: Udemy
+Description: Comprehensive guide to Python programming, covering basics to advanced concepts.
+Books:
+
+"Automate the Boring Stuff with Python" by Al Sweigart
+
+Description: Practical guide to using Python to automate everyday tasks.
+"Python Crash Course" by Eric Matthes
+
+Description: Hands-on, project-based introduction to Python programming.
+JavaScript
+Courses:
+
+JavaScript: Understanding the Weird Parts
+
+Platform: Udemy
+Description: Deep dive into the core mechanisms of the JavaScript language.
+The Complete JavaScript Course 2023: From Zero to Expert!
+
+Platform: Udemy
+Description: Comprehensive JavaScript course covering basics to advanced concepts and ES6+ features.
+Books:
+
+"Eloquent JavaScript" by Marijn Haverbeke
+
+Description: Modern introduction to programming using JavaScript.
+"You Don’t Know JS" by Kyle Simpson
+
+Description: Series of books diving deep into JavaScript's core mechanisms.
+Web Development
+Courses:
+
+The Web Developer Bootcamp
+
+Platform: Udemy
+Description: Comprehensive course covering HTML, CSS, JS, Node, and more.
+Full-Stack Web Development with React Specialization
+
+Platform: Coursera
+Description: Learn front-end and hybrid mobile development, with server-side support.
+Books:
+
+"HTML and CSS: Design and Build Websites" by Jon Duckett
+
+Description: Visual guide to learning HTML and CSS.
+"Learning Web Design" by Jennifer Robbins
+
+Description: Beginner's guide to HTML, CSS, JavaScript, and web graphics.
+Java
+Courses:
+
+Java Programming and Software Engineering Fundamentals
+
+Platform: Coursera
+Description: Series of courses covering Java programming, data structures, and more.
+The Complete Java Masterclass
+
+Platform: Udemy
+Description: Comprehensive Java course covering basics to advanced topics.
+Books:
+
+"Effective Java" by Joshua Bloch
+
+Description: Best practices for the Java platform.
+"Java: The Complete Reference" by Herbert Schildt
+
+Description: Comprehensive guide to Java programming.
+Data Science
+Courses:
+
+Data Science Specialization
+
+Platform: Coursera
+Description: Series of courses covering data science tools and methodologies.
+Applied Data Science with Python Specialization
+
+Platform: Coursera
+Description: Series of courses covering data visualization, machine learning, and more using Python.
+Books:
+
+"Python Data Science Handbook" by Jake VanderPlas
+
+Description: Comprehensive guide to data science using Python.
+"Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron
+
+Description: Practical guide to machine learning using Python libraries.
